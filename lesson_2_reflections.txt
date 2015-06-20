@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+succede che viene creato un file .git per tracciare la storia della repository. tuttavia è necessario selezionare i file da tracciare.
+non viene creato alcun commit iniziale.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+è un ambiente che permette di tracciare i file da “committare” è flessibile ed è concettualmente differente dalla directory fisica in cui posso anche decidere di avere dei file di servizio da non tracciare.
